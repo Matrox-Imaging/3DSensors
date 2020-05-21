@@ -7,7 +7,7 @@ Date: 05/13/2020
 **MIL Version** MIL X SP4  
 
 **Description**  
-This program contains an example of 3d reconstruction by interfacing with a PhoXi 3D Scanner .
+This program contains an example of 3d reconstruction by interfacing with a PhoXi 3D Scanner.
 
 **Link**  
 https://github.com/Matrox-Imaging/Photoneo_PhoXi-3D-Scanner_MXSP4
