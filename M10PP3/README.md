@@ -1,3 +1,3 @@
 # MilExamples
 
-Examples tested with MIL 10 PP3
+These examples have been tested using MIL 10 Processing Pack 3.
