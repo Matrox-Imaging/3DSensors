@@ -1,3 +1,3 @@
 # MilExamples
 
-Examples tested with MIL X SP4
+These examples have been tested using MIL X Processing Pack 4.
