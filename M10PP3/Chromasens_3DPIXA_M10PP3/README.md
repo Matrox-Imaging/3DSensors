@@ -7,7 +7,7 @@ Date: 05/13/2020
 **MIL Version** MIL 10 PP3  
 
 **Description**  
-This example shows how to use the 3DPIXA camera and its CS-3D api in conjunction with MIL
+This example shows how to use the 3DPIXA camera and its CS-3D api in conjunction with MIL.
 
 **Link**  
 https://github.com/Matrox-Imaging/Chromasens_3DPIXA_M10PP3
