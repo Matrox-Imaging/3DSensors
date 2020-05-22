@@ -1,3 +1,3 @@
 # MilExamples
 
-Examples for 3D devices ou sensors.
+Examples for 3D sensors.
