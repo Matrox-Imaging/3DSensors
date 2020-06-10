@@ -1,3 +1,3 @@
 # MilExamples
 
-Examples for 3D sensors.
+Examples showing how to interface MIL to 3D sensors with proprietary or pseudo-standard interfaces.
